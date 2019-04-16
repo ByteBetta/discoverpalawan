@@ -62,9 +62,7 @@
                     <a class="mu-logo" href="#">
                         <img src="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/logo-nearby-stores-fend.png")?>"" alt="<?=APP_NAME?>"/>
                     </a>
-
                     <u class="menu">
-                
                         <?php if($this->mUserBrowser->isLogged()): ?>
                             <li><a href="<?=admin_url("")?>">Dashboard</a></li>
                         <?php else: ?>
