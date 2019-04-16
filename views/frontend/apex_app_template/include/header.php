@@ -64,7 +64,7 @@
                     </a>
 
                     <u class="menu">
-                        <li><a class="active" href="https://codecanyon.net/item/nearbystores-offers-events-chat-realtime/21251567?ref=DroideveTechnology">Buy now</a></li>
+                
                         <?php if($this->mUserBrowser->isLogged()): ?>
                             <li><a href="<?=admin_url("")?>">Dashboard</a></li>
                         <?php else: ?>
