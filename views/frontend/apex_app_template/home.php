@@ -3,6 +3,7 @@
 <main role="main">
     <!-- Start Feature -->
     <h1 align="center">Whats up niggah</h1>
+    <p align="center">We are here doing some experiment</p>
     <section id="mu-feature">
         <div class="container">
             <div class="row">
