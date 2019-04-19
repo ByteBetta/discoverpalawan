@@ -2,6 +2,12 @@
 <!-- Start main content -->
 <main role="main">
     <!-- Start Feature -->
+<<<<<<< HEAD
+=======
+    <h1 align="center">Whats up niggah</h1>
+    <p align="center">We are here doing some experiment</p>
+    <img src="marlon"/>
+>>>>>>> 4afaa0170663edfa44680bc330d5b6621589b7e9
     <section id="mu-feature">
         <div class="container">
             <div class="row">
