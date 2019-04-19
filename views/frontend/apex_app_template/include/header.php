@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title><?=APP_NAME?></title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/favicon.ico")?>"/>
+    <link rel="shortcut icon" type="image/icon" href="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp_logos.png")?>"/>
     <!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -60,7 +60,7 @@
                 <div class="mu-logo-area">
                     <!-- text based logo -->
                     <a class="mu-logo" href="#">
-                        <img src="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/logo-nearby-stores-fend.png")?>"" alt="<?=APP_NAME?>"/>
+                        <img src="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp_logos.png")?>"" alt="<?=APP_NAME?>"/>
                     </a>
                     <u class="menu">
                         <?php if($this->mUserBrowser->isLogged()): ?>
@@ -75,7 +75,7 @@
                         <li><a href="#mu-feature">Features</a></li>
                     </u>
                     <!-- image based logo -->
-                    <!-- <a class="mu-logo" href="#"><img src="assets/images/logo.png" alt="logo img"></a> -->
+                    <!-- <a class="mu-logo" href="#"><img src="assets/images/dp_logo.jpeg" alt="logo img"></a> -->
                 </div>
                 <!-- End Logo -->
                 <!-- Start header featured area -->
@@ -92,7 +92,7 @@
 
                                 </p>
                             <div class="mu-app-download-area">
-                                <h4>Download The App</h4>
+                                <h4>Download The App Via</h4>
 
                                 <a class="mu-apple-btn" href="#"><i class="fa fa-apple"></i><span>apple store</span></a>
                                 <a class="mu-google-btn" target="_blank" href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores"><i class="fa fa-android"></i><span>google play</span></a>

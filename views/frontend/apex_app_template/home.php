@@ -2,8 +2,6 @@
 <!-- Start main content -->
 <main role="main">
     <!-- Start Feature -->
-    <h1 align="center">Whats up niggah</h1>
-    <p align="center">We are here doing some experiment</p>
     <section id="mu-feature">
         <div class="container">
             <div class="row">
@@ -16,7 +14,7 @@
                                     <!-- Start single feature item -->
                                     <div class="media">
                                         <div class="media-body">
-                                            <h3 class="media-heading"><i class="fa fa-check" aria-hidden="true"></i> Easy To Setup</h3>
+                                            <h3 class="media-heading"><i class="fa fa-check" aria-hidden="true"></i> Easy to Download </h3>
                                             <p><?=Translate::sprint("Setup_easy_desc","") ?></p>
                                         </div>
                                     </div>
@@ -34,7 +32,7 @@
                                     <!-- Start single feature item -->
                                     <div class="media">
                                         <div class="media-body">
-                                            <h3 class="media-heading"><i class="fa fa-usd" aria-hidden="true"></i> Make Your Business </h3>
+                                            <h3 class="media-heading"><i class="fa fa-usd" aria-hidden="true"></i> Explore Palawan </h3>
                                             <p><?=Translate::sprint("Make_business_desc","") ?></p>
                                         </div>
                                     </div>
@@ -56,9 +54,9 @@
                     <div class="mu-feature-area">
 
                         <div class="mu-title-area">
-                            <h2 class="mu-title">NEARBY STORES FEATURE</h2>
+                            <h2 class="mu-title">DISCOVER PALAWAN FEATURE</h2>
                             <span class="mu-title-dot"></span>
-                              <p><?=Translate::sprint("Nearby_stores_features","")?></p>
+                              <p><?=Translate::sprint("Discover_palawan_features","")?></p>
                         </div>
 
                         <!-- Start Feature Content -->
@@ -483,15 +481,15 @@
                                         <div class="mu-contact-right-single">
                                             <div class="mu-icon"><i class="fa fa-map-marker"></i></div>
                                             <p><strong>Office Location</strong></p>
-                                            <p>CASABLANCA, 75, BD 11 JANVIER, 1er ETAGE APPT.16 Morocco</p>
+                                            <p>Pathmosville, block 9 , lot 5 , Tagburos Puerto Princesa City Palawan</p>
                                         </div>
 
 
                                         <div class="mu-contact-right-single">
                                             <div class="mu-icon"><i class="fa fa-envelope"></i></div>
                                             <p><strong>Email Address</strong></p>
-                                            <p>contact@droideve.com</p>
-                                            <p>support@droideve.com</p>
+                                            <p>discover_palawan@zerobstacle.dev</p>
+                                            
                                         </div>
 
 <!--                                        <div class="mu-contact-right-single">-->
