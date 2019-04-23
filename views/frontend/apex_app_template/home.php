@@ -2,12 +2,6 @@
 <!-- Start main content -->
 <main role="main">
     <!-- Start Feature -->
-<<<<<<< HEAD
-=======
-    <h1 align="center">Whats up niggah</h1>
-    <p align="center">We are here doing some experiment</p>
-    <img src="marlon"/>
->>>>>>> 4afaa0170663edfa44680bc330d5b6621589b7e9
     <section id="mu-feature">
         <div class="container">
             <div class="row">
@@ -21,7 +15,7 @@
                                     <div class="media">
                                         <div class="media-body">
                                             <h3 class="media-heading"><i class="fa fa-check" aria-hidden="true"></i> Easy to Download </h3>
-                                            <p><?=Translate::sprint("Setup_easy_desc","") ?></p>
+                                            <p><?=Translate::sprint("Easy_Download_desc","") ?></p>
                                         </div>
                                     </div>
                                 </div>
@@ -39,7 +33,7 @@
                                     <div class="media">
                                         <div class="media-body">
                                             <h3 class="media-heading"><i class="fa fa-usd" aria-hidden="true"></i> Explore Palawan </h3>
-                                            <p><?=Translate::sprint("Make_business_desc","") ?></p>
+                                            <p><?=Translate::sprint("Explore_Palawan_desc","") ?></p>
                                         </div>
                                     </div>
                                 </div>
@@ -329,8 +323,8 @@
 <!--                            </div>-->
 <!---->
 <!--                        <div class="mu-download-content">-->
-<!--                            <a class="mu-google-btn" href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores"><i class="fa fa-android"></i><span>google play</span></a>-->
-<!--                            <a class="mu-apple-btn" href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores"><i class="fa fa-shopping-cart"></i><span>Buy Code Source</span></a>-->
+<!--                            <a class="mu-google-btn" href="https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan"><i class="fa fa-android"></i><span>google play</span></a>-->
+<!--                            <a class="mu-apple-btn" href="https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan"><i class="fa fa-shopping-cart"></i><span>Buy Code Source</span></a>-->
 <!--                        </div>-->
 <!---->
 <!---->

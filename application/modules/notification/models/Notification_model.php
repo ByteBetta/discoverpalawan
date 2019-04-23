@@ -103,7 +103,7 @@ class Notification_model extends CI_Model {
 
             //use this body when the app running on forground
             $body_forground = array(
-                'title' =>"NearbyStores" ,
+                'title' =>"DiscoverPalawan" ,
                 'text' => $data,
                 'sound' => '',
                 'badge' => '0',
@@ -112,7 +112,7 @@ class Notification_model extends CI_Model {
 
             //use this body when the app running in background
             $body_background = array(
-                'title' =>"NearbyStores" ,
+                'title' =>"DiscoverPalawan" ,
                 'text' => "You have new notification",
                 'sound' => '',
                 'badge' => 1,

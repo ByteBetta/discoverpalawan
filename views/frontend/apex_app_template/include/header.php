@@ -70,7 +70,7 @@
                         <?php endif;?>
 
 <!--                        <li><a href="#mu-faq">FAQ</a></li>-->
-                        <li><a href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores" >Download</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan" >Download</a></li>
                         <li><a href="#mu-apps-screenshot">Screenshots </a></li>
                         <li><a href="#mu-feature">Features</a></li>
                     </u>
@@ -95,7 +95,7 @@
                                 <h4>Download The App Via</h4>
 
                                 <a class="mu-apple-btn" href="#"><i class="fa fa-apple"></i><span>apple store</span></a>
-                                <a class="mu-google-btn" target="_blank" href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores"><i class="fa fa-android"></i><span>google play</span></a>
+                                <a class="mu-google-btn" target="_blank" href="https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan"><i class="fa fa-android"></i><span>google play</span></a>
                                 <!-- <a class="mu-windows-btn" href="#"><i class="fa fa-windows"></i><span>windows store</span></a> -->
                             </div>
 
@@ -133,7 +133,7 @@
                 <?php endif;?>
 
                 <!--                        <li><a href="#mu-faq">FAQ</a></li>-->
-                <li><a href="#"  onclick="redirect('https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores')" >Download</a></li>
+                <li><a href="#"  onclick="redirect('https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan')" >Download</a></li>
                 <li><a href="#mu-apps-screenshot">Screenshots </a></li>
                 <li><a href="#mu-feature">Features</a></li>
             </ul>

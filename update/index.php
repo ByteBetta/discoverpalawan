@@ -81,7 +81,7 @@
         <link rel="stylesheet" type="text/css" href="./assets/css/plugins.css?v=2.0">
         <link rel="stylesheet" type="text/css" href="./assets/css/core.css?v=2.0">
 
-        <title>Update - NearbyStores</title>
+        <title>Update - DiscoverPalawan</title>
         <link rel="stylesheet" href="//cdn.materialdesignicons.com/2.3.54/css/materialdesignicons.min.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">

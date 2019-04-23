@@ -60,7 +60,7 @@ $uri_child = $this->uri->segment(4);
 
     <?php if (DEMO): ?>
         <li class="<?php if ($uri_parent == "campaigns") echo "active"; ?>">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.droideve.apps.nearbystores">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.droideve.apps.DiscoverPalawan">
                 <i class="mdi mdi-google-play"></i> &nbsp;<span> <?= Translate::sprint("Download app", "") ?></span>
             </a>
         </li>

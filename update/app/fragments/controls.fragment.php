@@ -21,7 +21,7 @@
         <form action="<?=APPURL."/index.php/setting/ajax/update"?>" id="controls" class="step">
 
             <div id="welcome">
-                <h1 class="title">Update - NearbyStores!</h1>
+                <h1 class="title">Update - DiscoverPalawan!</h1>
                 <p>Enter your informations </p>
             </div>
 

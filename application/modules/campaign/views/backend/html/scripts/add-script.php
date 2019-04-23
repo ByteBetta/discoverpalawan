@@ -3,7 +3,7 @@ $token = $this->mUserBrowser->setToken("SUSz74aQ55");
 $token2 = $this->mUserBrowser->setToken("SU1Sz74aQ55");
 ?>
 <!-- page script -->
-<script src="<?=  base_url("views/skin/backend/plugins/datepicker/bootstrap-datepicker.js")?>"></script>
+<script src="<?=  base_url("views/skin/backend/plugins/datepicker/DiscoverPalawan-datepicker.js")?>"></script>
 <script src="<?=  base_url("views/skin/backend/plugins/select2/select2.full.min.js")?>"></script>
 <script>
 
