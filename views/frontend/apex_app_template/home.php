@@ -14,8 +14,8 @@
                                     <!-- Start single feature item -->
                                     <div class="media">
                                         <div class="media-body">
-                                            <h3 class="media-heading"><i class="fa fa-check" aria-hidden="true"></i> Easy to Download </h3>
-                                            <p><?=Translate::sprint("Easy_Download_desc","") ?></p>
+                                            <h3 class="media-heading"><i class="fa fa-check" aria-hidden="true"></i> EVENTS </h3>
+                                            <p><?=Translate::sprint("Events_desc","") ?></p>
                                         </div>
                                     </div>
                                 </div>
@@ -23,8 +23,8 @@
                                     <!-- Start single feature item -->
                                     <div class="media">
                                         <div class="media-body">
-                                            <h3 class="media-heading"><i class="fa fa-sliders" aria-hidden="true"></i> Advanced setting</h3>
-                                            <p><?=Translate::sprint("Advanced_setting_desc","") ?></p>
+                                            <h3 class="media-heading"><i class="fa fa-sliders" aria-hidden="true"></i> SEARCH FOR ANYTHING</h3>
+                                            <p><?=Translate::sprint("Search_for_anything_desc","") ?></p>
                                         </div>
                                     </div>
                                 </div>
@@ -33,7 +33,7 @@
                                     <div class="media">
                                         <div class="media-body">
                                             <h3 class="media-heading"><i class="fa fa-usd" aria-hidden="true"></i> Explore Palawan </h3>
-                                            <p><?=Translate::sprint("Explore_Palawan_desc","") ?></p>
+                                            <p><?=Translate::sprint("Business_desc","") ?></p>
                                         </div>
                                     </div>
                                 </div>
@@ -148,9 +148,9 @@
                     <div class="mu-feature-area">
 
                         <div class="mu-title-area">
-                            <h2 class="mu-title">ADVANCED DASHOARD</h2>
+                            <h2 class="mu-title">THINGS YOU MAY DO</h2>
                             <span class="mu-title-dot"></span>
-                            <p><?=Translate::sprint("Advanced_dashboard_desc","") ?></p>
+                            <p><?=Translate::sprint("Things_you_may_do_desc","") ?></p>
                         </div>
 
                         <!-- Start Feature Content -->
@@ -167,8 +167,8 @@
                                                 </button>
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="media-heading">Keep It Controle</h3>
-                                                <p><?=Translate::sprint("Keep_it_controle","") ?></p>
+                                                <h3 class="media-heading">Discover Places</h3>
+                                                <p><?=Translate::sprint("Discover_places","") ?></p>
                                             </div>
                                         </div>
 
@@ -180,8 +180,8 @@
                                                 </button>
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="media-heading">Support Multi Language</h3>
-                                                <p><?=Translate::sprint("Support_multi_language","") ?></p>
+                                                <h3 class="media-heading">Discover People</h3>
+                                                <p><?=Translate::sprint("Discover_people","") ?></p>
                                             </div>
                                         </div>
                                         <!-- End single feature item -->
@@ -196,9 +196,9 @@
                                                 </button>
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="media-heading">Manage Customers</h3>
+                                                <h3 class="media-heading">Discover Events</h3>
 
-                                                <p><?=Translate::sprint("Manage_customers","") ?></p>
+                                                <p><?=Translate::sprint("Discover_Events","") ?></p>
                                             </div>
                                         </div>
                                         <!-- End single feature item -->
@@ -210,9 +210,9 @@
                                                 </button>
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="media-heading">Push Offers</h3>
+                                                <h3 class="media-heading">Discover Needs</h3>
 
-                                                <p><?=Translate::sprint("Keep_it_controle","") ?></p>
+                                                <p><?=Translate::sprint("Discover_places","") ?></p>
                                             </div>
                                         </div>
                                         <!-- End single feature item -->

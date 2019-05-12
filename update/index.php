@@ -74,8 +74,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
         <meta name="theme-color" content="#fff">
 
-        <link rel="icon" href="./assets/img/dp_logos.png" type="image/x-icon">
-        <link rel="shortcut icon" href="./assets/img/dp_logos.png" type="image/x-icon">
+        <link rel="icon" href="./assets/img/dp.png" type="image/x-icon">
+        <link rel="shortcut icon" href="./assets/img/dp.png" type="image/x-icon">
+
 
 
         <link rel="stylesheet" type="text/css" href="./assets/css/plugins.css?v=2.0">

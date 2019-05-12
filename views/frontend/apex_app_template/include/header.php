@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title><?=APP_NAME?></title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp_logos.png")?>"/>
+    <link rel="shortcut icon" type="image/icon" href="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp.png")?>"/>
     <!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -60,7 +60,7 @@
                 <div class="mu-logo-area">
                     <!-- text based logo -->
                     <a class="mu-logo" href="#">
-                        <img src="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp_logos.png")?>"" alt="<?=APP_NAME?>"/>
+                        <img src="<?=base_url("views/skin/frontend/".FRONTEND_TEMPLATE_NAME."/assets/images/dp.png")?>"" alt="<?=APP_NAME?>"/>
                     </a>
                     <u class="menu">
                         <?php if($this->mUserBrowser->isLogged()): ?>
